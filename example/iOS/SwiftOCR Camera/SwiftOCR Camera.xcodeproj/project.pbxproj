@@ -203,6 +203,7 @@
 				TargetAttributes = {
 					37E1208F1CDA5E6B00FC2701 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = REU929A8B2;
 						LastSwiftMigration = 0810;
 					};
 				};
@@ -435,7 +436,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = REU929A8B2;
 				INFOPLIST_FILE = "SwiftOCR Camera/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "camenisch.nicolas.SwiftOCR-Camera-Example";
@@ -452,7 +453,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = REU929A8B2;
 				INFOPLIST_FILE = "SwiftOCR Camera/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "camenisch.nicolas.SwiftOCR-Camera-Example";

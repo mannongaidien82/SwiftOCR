@@ -155,7 +155,7 @@ extension ViewController {
     // MARK: Image Processing
     fileprivate func prepareImageForCrop (using image: UIImage) -> UIImage {
         let degreesToRadians: (CGFloat) -> CGFloat = {
-            return $0 / 180.0 * CGFloat(M_PI)
+            return $0 / 180.0 * CGFloat(Double.pi)
         }
         
         let imageOrientation = image.imageOrientation
